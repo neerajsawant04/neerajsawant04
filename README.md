@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on **AI/ML, Data Science, DSA**
 
-- 🌱 I’m currently learning **AI,ML,DSA,CP**
-
 - 👯 I’m looking to collaborate on **ML, AWS, Node.js**
 
-- 💬 Ask me about **flutter,AWS, Python**
+- 💬 Ask me about **flutter, AWS, Python**
 
 - 📫 How to reach me **sawantneeraj04@gmail.com**
 
