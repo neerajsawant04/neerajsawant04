@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sawantneeraj04" target="blank"><img src="https://img.shields.io/twitter/follow/sawantneeraj04?logo=twitter&style=for-the-badge" alt="sawantneeraj04" /></a> </p>
 
-- 🔭 I’m currently working on **AI/ML, Data Science, DSA**
+- 🔭 I’m currently working on **System Level Programming, DSA**
 
 - 👯 I’m looking to collaborate on **ML, AWS, Node.js**
 
