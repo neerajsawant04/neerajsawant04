@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **flutter, AWS, Python**
 
-- 📫 How to reach me **sawantneeraj04@gmail.com**
+- 📫 How to reach me **neerajjj04@icloud.com**
 
 - ⚡ Fun fact **I enjoy solving coding challenges on LeetCode and CodeChef, applying AI to problem-solving!**
 
